@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on app development.
+- 🌱 I’m currently learning machine learning.
+- 📫 How to reach me: M_SH2011(wechat)
+
 <!--
 **samma835/samma835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
